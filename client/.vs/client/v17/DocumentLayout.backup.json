@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rahul\\Programming\\atlas-maui\\client\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F7B7435-8204-4FD1-8869-63AF7D86AD37}|client.csproj|c:\\users\\rahul\\programming\\atlas-maui\\client\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7B7435-8204-4FD1-8869-63AF7D86AD37}|client.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F7B7435-8204-4FD1-8869-63AF7D86AD37}|client.csproj|c:\\users\\rahul\\programming\\atlas-maui\\client\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8F7B7435-8204-4FD1-8869-63AF7D86AD37}|client.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\Programming\\atlas-maui\\client\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rahul\\Programming\\atlas-maui\\client\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:03:14.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\rahul\\Programming\\atlas-maui\\client\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
