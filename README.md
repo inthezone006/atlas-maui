@@ -1,2 +1,2 @@
 # atlas-maui
-Native mobile and desktop clients for ATLAS
+Native mobile and desktop client for ATLAS, using .NET MAUI.
